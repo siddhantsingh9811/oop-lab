@@ -8,6 +8,7 @@ public class index {
         int n1 = obj.nextInt();
         System.out.println("Enter second no.: ");
         int n2 = obj.nextInt();
+        obj.close();
         switch (choice) {
             case '+':
                 add(n1,n2);
