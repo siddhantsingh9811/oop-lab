@@ -25,6 +25,7 @@ public class index{
                 }
             }
         }
+        obj.close();
     }
 }
 class Student{
