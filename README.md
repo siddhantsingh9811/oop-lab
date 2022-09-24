@@ -4,3 +4,5 @@
 2. Write a program to create interface A, in this interface we have two method meth1 and meth2. Implements this interface in another class named MyClass.
 3. Write a program in Java to show the usefulness of Interfaces as a place to keep constant value of the program
 4. Write a program to create an Interface having two methods division and modules. Create a class, which overrides these methods.
+5. Write a Java program to illustrate the multiple inheritance by using Interfaces.
+6. Write a java program to illustrate the keywords i)super ii)static iii)final
