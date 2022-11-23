@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class checkNum extends Exception{
     public checkNum(){
         super("Non numeric value");
